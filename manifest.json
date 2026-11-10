@@ -5,7 +5,7 @@
   "name": "Registry Calculator",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Registry_Calculator",
+  "short_name": "Calculator",
   "start_url": "/",
   "theme_color": "#ffffff"
 }
