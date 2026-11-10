@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Registry Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Registry_Calculator",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
